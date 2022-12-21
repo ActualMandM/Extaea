@@ -12,4 +12,4 @@ haxe build.hxml
 Afterwards, the compiled file will be in `bin/bin/Main.exe`.
 
 ## Usage
-Place `arc.json` and `arc.pack` in the same folder as `Main.exe`, then run `Main.exe`. The extracted files will be put into the data folder.
+Place the arc json and pack files in the same folder as `Main.exe`, then run the executable. The extracted files will be put into the data folder.

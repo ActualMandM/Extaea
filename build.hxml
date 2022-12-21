@@ -1,4 +1,4 @@
 --class-path src
 --dce full
---main src.Main
+--main Main
 --cs bin
