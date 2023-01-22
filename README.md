@@ -1,5 +1,5 @@
 # Extaea
-A file extractor for a Switch rhythm game.
+A file extractor for Arcaea (Nintendo Switch).
 
 ## Compilation
 In order to compile, you'll need to install [Haxe](https://haxe.org/download/).
